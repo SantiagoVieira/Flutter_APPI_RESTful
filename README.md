@@ -33,6 +33,7 @@ El código fuente se organiza en:
    ```bash
    git clone https://github.com/SantiagoVieira/Flutter_APPI_RESTful.git
    cd Flutter_APPI_RESTful
+   cd aplication
 
 2. **Instalar dependencias**
     ```bash
