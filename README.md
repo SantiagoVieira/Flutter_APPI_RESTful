@@ -44,3 +44,12 @@ El código fuente se organiza en:
     Inicia un emulador (ejemplo: Medium Phone API 36.0)
     Abre el archivo lib/main.dart
     Inicia Debug (F5 en VS Code o botón "Run" en Android Studio)
+
+---
+##  Demo app
+https://www.youtube.com/watch?v=EXsgaAguLZE
+-Carga inicial de productos
+-Uso del scroll infinito
+-Creación de producto
+-Edición de producto
+-liminación de producto
